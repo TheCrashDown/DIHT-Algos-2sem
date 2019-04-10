@@ -1,4 +1,4 @@
-**Searches in graphs**
+# Searches in graphs
 
 
 **Disclaimer**
