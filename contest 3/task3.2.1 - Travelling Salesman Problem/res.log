@@ -1,0 +1,312 @@
+Execution report
+
+
+
+================== Verticies number: 2 ======================
+
+Optimal solution:     7.2111
+MST solution:         7.2111
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     5.65685
+MST solution:         5.65685
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     8
+MST solution:         8
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     10
+MST solution:         10
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     10.198
+MST solution:         10.198
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+
+================== Verticies number: 3 ======================
+
+Optimal solution:     11.5952
+MST solution:         11.5952
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     9.14287
+MST solution:         9.14287
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     16.2245
+MST solution:         16.2245
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     12
+MST solution:         12
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     12.153
+MST solution:         12.153
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+
+================== Verticies number: 4 ======================
+
+Optimal solution:     7.43398
+MST solution:         10.0843
+MST / Opt ratio:      1.35651 -- OK
+Std error:            2.65028
+Sqrt error:           7.02399
+
+Optimal solution:     22.3863
+MST solution:         26.7152
+MST / Opt ratio:      1.19337 -- OK
+Std error:            4.32883
+Sqrt error:           18.7388
+
+Optimal solution:     18.1163
+MST solution:         19.3476
+MST / Opt ratio:      1.06797 -- OK
+Std error:            1.23131
+Sqrt error:           1.51611
+
+Optimal solution:     17.476
+MST solution:         17.476
+MST / Opt ratio:      1 -- OK
+Std error:            0
+Sqrt error:           0
+
+Optimal solution:     11.9814
+MST solution:         14.5859
+MST / Opt ratio:      1.21737 -- OK
+Std error:            2.60444
+Sqrt error:           6.78312
+
+
+================== Verticies number: 5 ======================
+
+Optimal solution:     12.1701
+MST solution:         13.9182
+MST / Opt ratio:      1.14364 -- OK
+Std error:            1.74806
+Sqrt error:           3.05573
+
+Optimal solution:     17.7925
+MST solution:         18.0843
+MST / Opt ratio:      1.0164 -- OK
+Std error:            0.291796
+Sqrt error:           0.0851449
+
+Optimal solution:     13.4477
+MST solution:         14.2854
+MST / Opt ratio:      1.0623 -- OK
+Std error:            0.837722
+Sqrt error:           0.701779
+
+Optimal solution:     11.6344
+MST solution:         14.8284
+MST / Opt ratio:      1.27453 -- OK
+Std error:            3.19401
+Sqrt error:           10.2017
+
+Optimal solution:     18.2221
+MST solution:         18.3592
+MST / Opt ratio:      1.00752 -- OK
+Std error:            0.137048
+Sqrt error:           0.0187823
+
+
+================== Verticies number: 6 ======================
+
+Optimal solution:     18.6644
+MST solution:         20.4809
+MST / Opt ratio:      1.09732 -- OK
+Std error:            1.8165
+Sqrt error:           3.29968
+
+Optimal solution:     13.8416
+MST solution:         22.2043
+MST / Opt ratio:      1.60417 -- OK
+Std error:            8.36271
+Sqrt error:           69.935
+
+Optimal solution:     16.8909
+MST solution:         18.24
+MST / Opt ratio:      1.07987 -- OK
+Std error:            1.34903
+Sqrt error:           1.81988
+
+Optimal solution:     12.8482
+MST solution:         20.6099
+MST / Opt ratio:      1.60411 -- OK
+Std error:            7.76175
+Sqrt error:           60.2447
+
+Optimal solution:     18.5253
+MST solution:         25.8912
+MST / Opt ratio:      1.39761 -- OK
+Std error:            7.36586
+Sqrt error:           54.2559
+
+
+================== Verticies number: 7 ======================
+
+Optimal solution:     21.7411
+MST solution:         30.9275
+MST / Opt ratio:      1.42254 -- OK
+Std error:            9.18641
+Sqrt error:           84.3901
+
+Optimal solution:     18.6383
+MST solution:         30.9223
+MST / Opt ratio:      1.65907 -- OK
+Std error:            12.284
+Sqrt error:           150.897
+
+Optimal solution:     19.0684
+MST solution:         31.0968
+MST / Opt ratio:      1.6308 -- OK
+Std error:            12.0284
+Sqrt error:           144.683
+
+Optimal solution:     15.2175
+MST solution:         16.5672
+MST / Opt ratio:      1.0887 -- OK
+Std error:            1.34972
+Sqrt error:           1.82174
+
+Optimal solution:     19.7213
+MST solution:         23.0088
+MST / Opt ratio:      1.16669 -- OK
+Std error:            3.28742
+Sqrt error:           10.8071
+
+
+================== Verticies number: 8 ======================
+
+Optimal solution:     21.0434
+MST solution:         29.0081
+MST / Opt ratio:      1.37849 -- OK
+Std error:            7.96463
+Sqrt error:           63.4353
+
+Optimal solution:     18.5366
+MST solution:         30.7179
+MST / Opt ratio:      1.65714 -- OK
+Std error:            12.1812
+Sqrt error:           148.383
+
+Optimal solution:     19.8863
+MST solution:         27.0376
+MST / Opt ratio:      1.35961 -- OK
+Std error:            7.15129
+Sqrt error:           51.141
+
+Optimal solution:     19.7641
+MST solution:         30.3161
+MST / Opt ratio:      1.5339 -- OK
+Std error:            10.552
+Sqrt error:           111.345
+
+Optimal solution:     19.4985
+MST solution:         28.5469
+MST / Opt ratio:      1.46406 -- OK
+Std error:            9.04844
+Sqrt error:           81.8743
+
+
+================== Verticies number: 9 ======================
+
+Optimal solution:     25.2122
+MST solution:         33.0222
+MST / Opt ratio:      1.30977 -- OK
+Std error:            7.81007
+Sqrt error:           60.9972
+
+Optimal solution:     24.2277
+MST solution:         40.9605
+MST / Opt ratio:      1.69065 -- OK
+Std error:            16.7328
+Sqrt error:           279.986
+
+Optimal solution:     14
+MST solution:         25.5014
+MST / Opt ratio:      1.82153 -- OK
+Std error:            11.5014
+Sqrt error:           132.281
+
+Optimal solution:     24.0709
+MST solution:         47.3495
+MST / Opt ratio:      1.96708 -- OK
+Std error:            23.2786
+Sqrt error:           541.894
+
+Optimal solution:     25.7506
+MST solution:         53.2954
+MST / Opt ratio:      2.06967 -- FAIL
+Std error:            27.5447
+Sqrt error:           758.713
+
+
+================== Verticies number: 10 ======================
+
+Optimal solution:     24.7766
+MST solution:         43.4968
+MST / Opt ratio:      1.75556 -- OK
+Std error:            18.7202
+Sqrt error:           350.446
+
+Optimal solution:     21.7278
+MST solution:         27.369
+MST / Opt ratio:      1.25963 -- OK
+Std error:            5.64118
+Sqrt error:           31.823
+
+Optimal solution:     17.6597
+MST solution:         34.7372
+MST / Opt ratio:      1.96703 -- OK
+Std error:            17.0775
+Sqrt error:           291.641
+
+Optimal solution:     21.0088
+MST solution:         38.872
+MST / Opt ratio:      1.85027 -- OK
+Std error:            17.8632
+Sqrt error:           319.094
+
+Optimal solution:     19.8148
+MST solution:         34.9723
+MST / Opt ratio:      1.76496 -- OK
+Std error:            15.1575
+Sqrt error:           229.751
+
+
+
+========================== Summary: ==========================
+
+
+Tests passed :            45
+      OK : 44, Failed : 1
+Average optimal result:   16.5551
+Average mst result:       23.0004
+Average MST / Opt ratio:  1.332
+Average std error:        6.44534
+Average sqrt error:       9.5255
